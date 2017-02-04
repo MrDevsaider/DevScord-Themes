@@ -3,7 +3,7 @@
 /*Ferris-Chan Theme*/
 
 /* IMPORTABLE CSS GENERAL (NO REMOVER) */
-@import url(https://raw.githubusercontent.com/MrDevsaider/DevScord-Themes/master/ThemesBase/FerrisChanBase.css);
+@import url(https://gitcdn.xyz/repo/MrDevsaider/DevScord-Themes/ThemesBase/master/css/FerrisChanBase.min.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 >>>Importante
@@ -37,7 +37,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(http://i.imgur.com/EKxbsK3.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://i.imgur.com/EKxbsK3.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
