@@ -1,6 +1,5 @@
 # DevScord-Themes
-Discord Themes created by Devsaider
-Powered by BetterDiscord - http://betterdicord.net
+Discord Themes created by Devsaider - Powered by BetterDiscord - http://betterdicord.net
 
 # How to install (EN):
 - Open cmd and type "%appdata%"
