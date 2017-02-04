@@ -1,7 +1,7 @@
 # DevScord-Themes
 Discord Themes created by Devsaider
 
-Need BetterDiscord.
+(Need BetterDiscord)
 How to install (EN):
 - Open cmd and type "%appdata%"
 - Open folder "BetterDiscord/themes"
@@ -9,7 +9,7 @@ How to install (EN):
 - Open Discord and go in Settings>BetterDiscord>Select the Theme
 - Have fun!
 
-Necesita BetterDiscord.
+(Necesita BetterDiscord)
 Cómo instalar (ES):
 - Abre cmd y escribe "%appdata%"
 - Abre el folder "BetterDiscord/themes"
