@@ -1,5 +1,6 @@
 # 1.2
-- Fixed minor bugs
+- Fixed bugs
+- Author's tag (correction)
 
 # 1.1
 - Base CSS Update
