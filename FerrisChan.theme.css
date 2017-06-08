@@ -1,4 +1,4 @@
-//META{"name":"Ferris-Chan Theme","description":"Tema dedicado al fandom del personaje Félix Argyle y en especial a Xero-Chan.","author":"<a href='https://github.com/MrDevsaider' target='_blank'>@MrDevsaider</a>","version":"1.2"}*//{}
+//META{"name":"Ferris-Chan Theme","description":"Tema dedicado al fandom del personaje Félix Argyle y en especial a Xero-Chan.","author":"Devsaider","version":"1.5"}*//{}
 
 /*Ferris-Chan Theme*/
 
@@ -15,7 +15,7 @@ Changelog: https://github.com/MrDevsaider/DevScord-Themes/blob/master/Changelog/
 >>> COLORES EDITABLES
 */
 :root {
-    --main-color: #da27e6;
+    --main-color: #F000FF;
     --hover-color: #a71eb3;
     --background-blur: 0px;
     --background-brightness: 100%;
@@ -37,7 +37,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://i.imgur.com/EKxbsK3.jpg) !important; 
+    background-image: url(https://hobbyscratchdotcom.files.wordpress.com/2017/05/thumb-1920-729539.png?w=1000&h=625) !important; 
     /* HTTPS Requerido por cifrado SSL (Discord lo requiere) */
 }
 /*
