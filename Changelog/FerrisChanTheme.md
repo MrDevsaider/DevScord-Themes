@@ -1,3 +1,8 @@
+# 1.3
+- Fixed container channels bugs (Discord Style Update 6/08/17)
+.container-RYiLUQ  {
+    background: transparent !important;    
+}
 # 1.2
 - Fixed bugs
 
